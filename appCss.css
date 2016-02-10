@@ -16,3 +16,8 @@
     color: white;
 }
 
+input:hover {
+    background-color: #f6d74b;
+}
+
+.OtherPage{color:red}
