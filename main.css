@@ -1,0 +1,18 @@
+.icon{ border: 14px black double; margin: 1% 5% 0 5%;padding: 1% 0 1% 1%}
+.icon2{ border: 14px black double; margin: 1% 5% 0 5%; padding: 1% 0 1% 1%}
+.head{text-align: center; font-size: 45px; font-weight: bolder; background-color: #1bae6a;
+    padding: 5% 0;color: #eeeeee;
+}
+.btnLarge {
+    padding: 3% 0 3%;
+    width: 70%;
+    font-size: 40px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #899af6;
+    margin-left: 3%;
+    color: white;
+}
+
